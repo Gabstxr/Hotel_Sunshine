@@ -1,6 +1,6 @@
-![Sunshine Hotel](assets/images/header_sunshine.png)
+# <p align="center"><img src="assets/images/header_sunshine.png" alt="Sunshine Hotel"></p>
 
-# Sunshine Hotel App
+<p align="center">Sunshine Hotel App</p>
 
 Crie um aplicativo para o hotel Sunshine. Ele possui 600 suítes e uma rotatividade média de 6.000 hóspedes por ano, que fazem suas reservas antecipadamente via website. Durante o processo de reserva, são solicitadas a data de entrada e saída da hospedagem (existem valores de hospedagem diferentes), bem como as preferências de acomodações dos hóspedes. Utilize gerenciadores de estado.
 
