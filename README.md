@@ -1,4 +1,4 @@
-# <p align="center"><img src="assets/images/header_sunshine.png" alt="Sunshine Hotel"></p>
+# <p align="center"><img src="assets/images/header_sunshine_hotel.png" alt="Sunshine Hotel"></p>
 
 <p align="center">Sunshine Hotel App</p>
 
